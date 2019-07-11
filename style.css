@@ -1,0 +1,31 @@
+body{
+  margin: 0;
+  padding: 0;
+  background: white;
+}
+.header{
+  background: #FF0000;
+  height:70px;
+  width:100%;
+}
+.footer{
+  background: #00FF00;
+  height:60px;
+  width:100%;
+  position:relative;
+  margin-top:1130px
+
+}
+p{
+  margin:0;
+  padding:0;
+  text-align: center;
+  position:relative;
+  top:auto;
+  
+
+
+
+
+
+}
