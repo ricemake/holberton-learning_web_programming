@@ -1,7 +1,7 @@
 body{
   margin: 0;
   padding: 0;
-  background: white;
+  
 }
 .header{
   background: #FF0000;
@@ -21,8 +21,8 @@ p{
   padding:0;
   text-align: center;
   position:relative;
-  top:auto;
-  
+
+
 
 
 
